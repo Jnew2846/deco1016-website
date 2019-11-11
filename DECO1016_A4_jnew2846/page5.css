@@ -1,0 +1,43 @@
+body {
+    background-image: url('https://images.unsplash.com/photo-1438382458652-54431bf59e01?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjF9&auto=format&fit=crop&w=1506&q=80');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: auto;
+    margin: 0;
+    padding: 0;
+    font-family: Helvetica, sans-serif;
+}
+
+img{
+    position: absolute;
+    left: 25px;
+}
+
+
+.account{
+    position: absolute;
+    top: 100px;
+    left: 30%;
+    width: 500px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    background: white;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+h1{
+    text-align: center;
+    color: #003580;
+}
+
+.fas{
+    position: relative;
+    font-size: 200px;
+    color: #003580;
+}
+
+h3{
+    color:rgb(114, 114, 114);
+}
